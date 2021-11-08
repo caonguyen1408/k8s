@@ -1,6 +1,15 @@
 # K8s Tip
 ### Basic(pod,deployment,service)
 ##### [Kubectl Usage Conventions](https://kubernetes.io/docs/reference/kubectl/conventions/ "Heading link")
+### Super basic kube-system
+- [ ] coredns
+- [ ] etcd-controlplane
+- [ ] kube-apiserver-controlplane
+- [ ] kube-controller-manager-controlplane
+- [ ] kube-proxy
+- [ ] kube-scheduler-controlplane
+- [ ] weave-net (CNI)
+
 #### POD
 -------------
 ##### Create an NGINX Pod
